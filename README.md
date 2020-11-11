@@ -1,5 +1,4 @@
-# #100DaysOfReact
-## React Costa Rica
+# #100DaysOfReact - React Costa Rica
 
 Felicitaciones por unirse a #100DaysOfReact, vamos a estar intensivamente estudiando React junto con el ecosistema que le rodea.
 
