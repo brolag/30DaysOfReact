@@ -15,7 +15,7 @@ La idea es estudiar una pieza corta de material día a día y practicar para pod
 
 ## Bitácora
 
-### Día 1: Preparación**
+### Día 1: Preparación
 
 El día uno consiste en revisar a alto nivel el material que vamos a estudiar, recuperar algunos links, ejemplos, crear notas y un proyecto en GitHub para manejar los ejemplos.
 
