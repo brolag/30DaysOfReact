@@ -27,6 +27,6 @@ Durante el día 2 es buena idea repasar aspectos básicos de JavaScript y su fun
 
 **Lecturas recomendadas:**
 
-- [What The fork is a Closure](https://whatthefork.is/closure)
+- [What The fork is a Closure por Dan Abramov](https://whatthefork.is/closure)
 - [Scope and Closures por Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch7.md)
 - [What is a Closure by Eric Elliot](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
