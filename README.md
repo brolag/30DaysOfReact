@@ -15,17 +15,18 @@ La idea es estudiar una pieza corta de material día a día y practicar para pod
 
 ## Bitácora
 
-**Día 1: Preparación**
+### Día 1: Preparación**
 
 El día uno consiste en revisar a alto nivel el material que vamos a estudiar, recuperar algunos links, ejemplos, crear notas y un proyecto en GitHub para manejar los ejemplos.
 
 También es un buen día para invitar a otros colegas a unirse.
 
-**Día 2: JavaScript para React - Closures
+### Día 2: JavaScript para React - Closures
 
-Durante el día 2 es buena idea repasar aspectos básicos de JavaScript y su funcionamiento. Siempre vale la pena aprender o recordar detalles importantes sobre qué es un Closure en JavaScript, cómo funciona y en que casos se aplica. 
+Durante el día 2 es buena idea repasar aspectos básicos de JavaScript y su funcionamiento. Siempre vale la pena aprender o recordar detalles importantes sobre qué es un Closure en JavaScript, cómo funciona y en que casos se aplica.
 
-***Lecturas recomendadas
-- https://whatthefork.is/closure
-- https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch7.md
-- https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+**Lecturas recomendadas:**
+
+- [What The fork is a Closure](https://whatthefork.is/closure)
+- [Scope and Closures por Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch7.md)
+- [What is a Closure by Eric Elliot](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
