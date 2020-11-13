@@ -30,3 +30,13 @@ Durante el día 2 es buena idea repasar aspectos básicos de JavaScript y su fun
 - [What The fork is a Closure por Dan Abramov](https://whatthefork.is/closure)
 - [Scope and Closures por Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch7.md)
 - [What is a Closure por Eric Elliot](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+
+### Día 3: JavaScript para React - Abstracción
+
+Según Wikipedia, la abstracción consiste en aislar un elemento de su contexto o del resto de los elementos que lo acompañan. En programación es importante saber cuando abstraer y cuál es la mejor manera de hacerlo para evitar repetir el código pero al mismo tiempo no caer en la trampa de sobre-complicar las cosas.
+
+**Lecturas recomendadas:**
+
+- [Abstraction and Composition por Eric Elliot](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
+- [AHA Programming por Kent C. Dodds](https://kentcdodds.com/blog/aha-programming)
+- [AHA Programming Talk por Kent C. Dodds](https://www.youtube.com/watch?v=wuVy7rwkCfc&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
