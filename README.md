@@ -25,7 +25,7 @@ También es un buen día para invitar a otros colegas a unirse.
 
 Durante el día 2 es buena idea repasar aspectos básicos de JavaScript y su funcionamiento. Siempre vale la pena aprender o recordar detalles importantes sobre qué es un Closure en JavaScript, cómo funciona y en que casos se aplica.
 
-**Lecturas recomendadas:**
+**Contenido recomendado:**
 
 - [What The fork is a Closure por Dan Abramov](https://whatthefork.is/closure)
 - [Scope and Closures por Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch7.md)
@@ -35,8 +35,23 @@ Durante el día 2 es buena idea repasar aspectos básicos de JavaScript y su fun
 
 Según Wikipedia, la abstracción consiste en aislar un elemento de su contexto o del resto de los elementos que lo acompañan. En programación es importante saber cuando abstraer y cuál es la mejor manera de hacerlo para evitar repetir el código pero al mismo tiempo no caer en la trampa de sobre-complicar las cosas.
 
-**Lecturas recomendadas:**
+**Contenido recomendado:**
 
 - [Abstraction and Composition por Eric Elliot](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
 - [AHA Programming por Kent C. Dodds](https://kentcdodds.com/blog/aha-programming)
 - [AHA Programming Talk por Kent C. Dodds](https://www.youtube.com/watch?v=wuVy7rwkCfc&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+
+### Día 4: JavaScript para React - Conceptos fundamentales
+
+El día 4 está dedicado completamente al repaso de conceptos fundamentales: el funcionamiento del browser, el funcionamiento del Event Loop y los conceptos más básicos de JavaScript en pocas palabras.
+
+**Contenido Recomendado:**
+
+- [So How does the Browser Actually Render a Website por Ryan Seddon](https://www.youtube.com/watch?v=SmE4OwHztCc)
+- [What The Heck is The Event Loop Anyway? por Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [The Fundamentals - JS por Wes Bos y Scott Tolinski](https://syntax.fm/show/162/the-fundamentals-js)
+
+
+
+
+
