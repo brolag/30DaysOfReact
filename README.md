@@ -51,7 +51,7 @@ El día 4 está dedicado completamente al repaso de conceptos fundamentales: el 
 - [What The Heck is The Event Loop Anyway? por Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [The Fundamentals - JS por Wes Bos y Scott Tolinski](https://syntax.fm/show/162/the-fundamentals-js)
 
-### Día 5: JavaScript para React - Características principales de JavaScript para React
+### Día 5: JavaScript para React - Características modernas de JavaScript para React
 
 Una de las ventajas de React es funcionar tan de cerca a JavaScript sin necesidad de templates. Es por eso que es importante familiarizarse con el lenguaje, en especial con caracteristicas modernas. El día 5 esta dedicado al repaso de estas características. 
 
