@@ -61,4 +61,16 @@ Una de las ventajas de React es funcionar tan de cerca a JavaScript sin necesida
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
 
+### Día 6: JavaScript para React - Hola Mundo de React
+
+Cuando creamos aplicaciones utilizamos abstracciones y no siempre es claro lo que sucede por debajo. En el día 6 vamos a explorar las bases de la creación de componentes en React. Posiblemente a la hora de escribir nuestras aplicaciones vayamos a utilizar una estrategia diferente sin embargo conocer las bases es importante para tener un conocimiento sólido sobre React o cualquier otra tecnología. 
+
+**Contenido Recomendado:**
+
+- [Super Simple Start to React por Kent C. Dodds](https://kentcdodds.com/blog/super-simple-start-to-react)
+- [The Beginner's Guide to React - Introduction](https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction)
+- [Create a User Interface with Vanilla JavaScript and DOM](https://egghead.io/lessons/react-create-a-user-interface-with-vanilla-javascript-and-dom)
+- [Create a User Interface with React’s createElement API](https://egghead.io/lessons/react-create-a-user-interface-with-react-s-createelement-api)
+
+
 
