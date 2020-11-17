@@ -61,7 +61,7 @@ Una de las ventajas de React es funcionar tan de cerca a JavaScript sin necesida
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
 
-### Día 6: JavaScript para React - Hola Mundo de React
+### Día 6: Hola Mundo de React
 
 Cuando creamos aplicaciones utilizamos abstracciones y no siempre es claro lo que sucede por debajo. En el día 6 vamos a explorar las bases de la creación de componentes en React. Posiblemente a la hora de escribir nuestras aplicaciones vayamos a utilizar una estrategia diferente sin embargo conocer las bases es importante para tener un conocimiento sólido sobre React o cualquier otra tecnología. 
 
@@ -72,5 +72,18 @@ Cuando creamos aplicaciones utilizamos abstracciones y no siempre es claro lo qu
 - [Create a User Interface with Vanilla JavaScript and DOM](https://egghead.io/lessons/react-create-a-user-interface-with-vanilla-javascript-and-dom)
 - [Create a User Interface with React’s createElement API](https://egghead.io/lessons/react-create-a-user-interface-with-react-s-createelement-api)
 
+### Día 7: Crear un generador de escalas musicales con React
+
+En el día 7 vamos a generar nuestra primera aplicación. Esta debe generar escalas musicales que consistiran en una serie de botones que emitiran la nota correspondiente. Utilizaremos JSX, Create React App y Tone.js.
+
+**Contenido Recomendado:**
+- [Create React App](https://create-react-app.dev/)
+- [Tone.js](https://tonejs.github.io/)
+- [React Docs: JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+- [Components and Props](https://reactjs.org/docs/components-and-props.html)
+
+**Ejercicio**
+- [Scales Generator](https://github.com/brolag/scales-generator)
 
 
