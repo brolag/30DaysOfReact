@@ -87,3 +87,11 @@ En el día 7 vamos a generar nuestra primera aplicación. Esta debe generar esca
 - [Scales Generator](https://github.com/brolag/scales-generator)
 
 
+### Día 8: React Router
+
+En el día 8 vamos a crear nuestro propio React Router para entender de manera profunda su funcionamiento.
+
+**Contenido Recomendado:**
+- [Build Your Own React Router por Tyler McGinnis](https://ui.dev/build-your-own-react-router-v4/)
+
+
