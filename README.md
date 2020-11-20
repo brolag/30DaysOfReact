@@ -95,7 +95,7 @@ En el día 8 vamos a crear nuestro propio React Router para entender de manera p
 - [Build Your Own React Router por Tyler McGinnis](https://ui.dev/build-your-own-react-router-v4/)
 
 
-### Día 9: Application State Management
+### Día 9: Manejo del estado de la aplicación
 
 React es todo lo que necesitas para manejar el estado de tu aplicación.
 
