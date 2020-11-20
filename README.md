@@ -101,3 +101,12 @@ React es todo lo que necesitas para manejar el estado de tu aplicación.
 
 **Contenido Recomendado:**
 - [Application State Management with React por Kent C. Dodds](https://kentcdodds.com/blog/application-state-management-with-react)
+
+### Día 10: Componentes y estilos CSS
+
+En el día 10 veremos las mejores estrategias para organizar y aplicar estilos a nuestros componentes en react.
+
+**Contenido Recomendado:**
+- [A Unified Styling Language por Mark Dalgleish](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
+- [Mantainable CSS in React por Kent C. Dodds](https://www.youtube.com/watch?v=3-4KsXPO2Q4&feature=youtu.be&index=2&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+
