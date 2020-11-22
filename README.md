@@ -114,5 +114,5 @@ En el día 10 veremos las mejores estrategias para organizar y aplicar estilos a
 
 Seguimos con el manejo de estilos css en nuestras aplicaciones de React. En el día 11 exploraremos TailwindCSS. Ciertamente no es necesario conocer Tailwind para crear una aplicación con React pero vale mucho la pena.
 
--[Introducción a TailwindCSS por Alfredo Bonilla](https://youtu.be/ZIAaHM5bx2Y)
--[Setting Up Tailwind CSS In A React Project por Blessing Krofegha](https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/)
+- [Introducción a TailwindCSS por Alfredo Bonilla](https://youtu.be/ZIAaHM5bx2Y)
+- [Setting Up Tailwind CSS In A React Project por Blessing Krofegha](https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/)
