@@ -110,3 +110,9 @@ En el día 10 veremos las mejores estrategias para organizar y aplicar estilos a
 - [A Unified Styling Language por Mark Dalgleish](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
 - [Mantainable CSS in React por Kent C. Dodds](https://www.youtube.com/watch?v=3-4KsXPO2Q4&feature=youtu.be&index=2&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
 
+### Día 11: TailwindCSS y React
+
+Seguimos con el manejo de estilos css en nuestras aplicaciones de React. En el día 11 exploraremos TailwindCSS. Ciertamente no es necesario conocer Tailwind para crear una aplicación con React pero vale mucho la pena.
+
+-[Introducción a TailwindCSS por Alfredo Bonilla](https://youtu.be/ZIAaHM5bx2Y)
+-[Setting Up Tailwind CSS In A React Project por Blessing Krofegha](https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/)
