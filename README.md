@@ -13,6 +13,13 @@ La idea es estudiar una pieza corta de material día a día y practicar para pod
 5. [Notion.so](http://notion.so) también es una muy buena herramienta para llevar notas. Para un nivel extra de aprovechamiento, podríamos publicar lo que vayamos aprendiendo en [Dev.to](http://dev.to) o en alguna plataforma para blogs.
 6. Si perdemos un día o dos no es problema siempre y cuando nos pongamos al día. Si se puede. 💪🏽
 
+## Agradecimientos especiales
+
+- [Kent C. Dodds](https://kentcdodds.com/blog/how-to-react)
+- [Eric Elliot](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
+- [Kyle Sipmson](https://github.com/getify/You-Dont-Know-JS)
+- [Blockmatic](https://github.com/blockmatic/modern-react-stack)
+
 ## Bitácora
 
 ### Día 1: Preparación
