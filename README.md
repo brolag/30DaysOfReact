@@ -114,5 +114,15 @@ En el día 10 veremos las mejores estrategias para organizar y aplicar estilos a
 
 Seguimos con el manejo de estilos css en nuestras aplicaciones de React. En el día 11 exploraremos TailwindCSS. Ciertamente no es necesario conocer Tailwind para crear una aplicación con React pero vale mucho la pena.
 
+**Contenido Recomendado:**
 - [Introducción a TailwindCSS por Alfredo Bonilla](https://youtu.be/ZIAaHM5bx2Y)
 - [Setting Up Tailwind CSS In A React Project por Blessing Krofegha](https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/)
+
+### Día 12: Repaso de CSS - CSS Grid
+
+En el día 12 vamos a iniciar un repaso sobre las funcionalidades modernas de CSS para poder aplicarlas a nuestros componentes de React.
+
+**Contenido Recomendado:**
+- [CSS Grid Changes Everything por Morten Rand-Hendriksen](https://youtu.be/txZq7Laz7_4)
+- [CSS Grid Tutorial por FollowAndrew](https://youtu.be/SPFDLHNm5KQ)
+- [Learn CSS Grid por Jonathan Suh](https://learncssgrid.com/)
