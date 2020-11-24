@@ -130,6 +130,17 @@ Seguimos con el manejo de estilos css en nuestras aplicaciones de React. En el d
 En el día 12 vamos a iniciar un repaso sobre las funcionalidades modernas de CSS para poder aplicarlas a nuestros componentes de React.
 
 **Contenido Recomendado:**
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Grid Changes Everything por Morten Rand-Hendriksen](https://youtu.be/txZq7Laz7_4)
 - [CSS Grid Tutorial por FollowAndrew](https://youtu.be/SPFDLHNm5KQ)
 - [Learn CSS Grid por Jonathan Suh](https://learncssgrid.com/)
+
+### Día 13: Repaso de CSS - Flexbox
+
+Flexbox ayuda a distribuir el espacio entre los ítems de una interfaz y mejorar las capacidades de alineación. Es definivitamente una característica que debemos usar.
+
+***Contenido Recomendado***
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox in 20 minutes por Brad Traversy](https://youtu.be/JJSoEo8JSnc)
+- [Flexbox vs Grid CSS por Jen Simmons](https://youtu.be/hs3piaN4b5I)
+- [Flexbox + CSS Grid por Jen Simmons](https://youtu.be/dQHtT47eH0M)
