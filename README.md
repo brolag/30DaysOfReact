@@ -144,3 +144,11 @@ Flexbox ayuda a distribuir el espacio entre los ítems de una interfaz y mejorar
 - [Flexbox in 20 minutes por Brad Traversy](https://youtu.be/JJSoEo8JSnc)
 - [Flexbox vs Grid CSS por Jen Simmons](https://youtu.be/hs3piaN4b5I)
 - [Flexbox + CSS Grid por Jen Simmons](https://youtu.be/dQHtT47eH0M)
+
+### Día 14: Listas en React
+
+Renderizar listas en React es bastante sencillo sin embargo tiene sus particularidades.
+
+***Contenido Recomendado***
+- [Listas en React](https://es.reactjs.org/docs/lists-and-keys.html)
+- [Understanding the key prop in React por Kent C. Dodds](https://kentcdodds.com/blog/understanding-reacts-key-prop)
