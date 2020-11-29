@@ -152,3 +152,19 @@ Renderizar listas en React es bastante sencillo sin embargo tiene sus particular
 ***Contenido Recomendado***
 - [Listas en React](https://es.reactjs.org/docs/lists-and-keys.html)
 - [Understanding the key prop in React por Kent C. Dodds](https://kentcdodds.com/blog/understanding-reacts-key-prop)
+
+### Día 15: React Hooks - Use State
+
+Los hooks vienen a cambiar la manera de escribir aplicaciones en React. Permiten poder utilizar el estado si necesidad de escribir una clase, entre otras cosas.
+
+***Contenido Recomendado***
+- [Presentando Hooks en React](https://es.reactjs.org/docs/hooks-intro.html)
+- [React Hooks por Nicolas Marcora](https://www.youtube.com/watch?v=ymMeu3foD_0)
+
+***Contenido extra***
+- [Hooks Crash Course por Maximilian Schwarzmüller](https://youtu.be/-MlNBTSg_Ww)
+
+
+
+
+
