@@ -167,7 +167,7 @@ Los hooks vienen a cambiar la manera de escribir aplicaciones en React. Permiten
 
 ### Día 16: Forms en React
 
-Los elementos de formularios en HTML funcionan un poco diferente a otros elementos del DOM en React, debido a que los elementos de formularios conservan naturalmente algún estado interno
+Los formularios son quizás la caraterística más común y de las más importantes en la web. Los elementos de formularios en HTML funcionan un poco diferente a otros elementos del DOM en React, debido a que los elementos de formularios conservan naturalmente algún estado interno.
 
 ***Contenido Recomendado***
 - [Formularios en React](https://es.reactjs.org/docs/forms.html)
