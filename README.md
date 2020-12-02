@@ -165,6 +165,12 @@ Los hooks vienen a cambiar la manera de escribir aplicaciones en React. Permiten
 - [Hooks Crash Course por Maximilian Schwarzmüller](https://youtu.be/-MlNBTSg_Ww)
 
 
+### Día 16: Forms en React
 
+Los elementos de formularios en HTML funcionan un poco diferente a otros elementos del DOM en React, debido a que los elementos de formularios conservan naturalmente algún estado interno
+
+***Contenido Recomendado***
+- [Formularios en React](https://es.reactjs.org/docs/forms.html)
+- [How React Hooks Change The Way We Build Forms por Code Artistry](https://youtu.be/8yo44xN7-nQ)
 
 
