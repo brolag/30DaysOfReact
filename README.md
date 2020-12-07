@@ -178,7 +178,9 @@ Aparte de los cambios del estado pueden suceder otras cosas a la hora de renderi
 
 ***Contenido Recomendado***
 - [Usando useEffect](https://reactjs.org/docs/hooks-effect.html)
+- [A Complete Guide to useEffect por Dan Abramov](https://overreacted.io/a-complete-guide-to-useeffect/)
 - [The Iceberg of React Hooks por Alejandro Solidze](https://medium.com/@sdolidze/the-iceberg-of-react-hooks-af0b588f43fb)
 - [Hook Flow por Donavon West](https://github.com/donavon/hook-flow)
+
 
 
