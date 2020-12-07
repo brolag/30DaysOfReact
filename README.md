@@ -173,4 +173,12 @@ Los formularios son quizás la caraterística más común y de las más importan
 - [Formularios en React](https://es.reactjs.org/docs/forms.html)
 - [How React Hooks Change The Way We Build Forms por Code Artistry](https://youtu.be/8yo44xN7-nQ)
 
+### Día 17: Manejo de efectos secundarios con useEffect
+Aparte de los cambios del estado pueden suceder otras cosas a la hora de renderizar un componente en React. Con useEffect podemos manejar la ejecución de los efectos secundarios.
+
+***Contenido Recomendado***
+- [Usando useEffect](https://reactjs.org/docs/hooks-effect.html)
+- [The Iceberg of React Hooks por Alejandro Solidze](https://medium.com/@sdolidze/the-iceberg-of-react-hooks-af0b588f43fb)
+- [Hook Flow por Donavon West](https://github.com/donavon/hook-flow)
+
 
