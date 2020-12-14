@@ -182,5 +182,11 @@ Aparte de los cambios del estado pueden suceder otras cosas a la hora de renderi
 - [The Iceberg of React Hooks por Alejandro Solidze](https://medium.com/@sdolidze/the-iceberg-of-react-hooks-af0b588f43fb)
 - [Hook Flow por Donavon West](https://github.com/donavon/hook-flow)
 
+### Día 18: Explorando useMemo, useCallback y useRef en React
+Algunas veces es necesario hacer algunos ajustes para mejorar el rendimiento de nuestras aplicaciones y existen herramientas que podemos utilizar sin embargo no siempre es necesario e incluso podría ser perjudicial.
+
+***Contenido Recomendado***
+- [Explore the useMemo, useContext and useRef Hooks in React por chantastic](https://youtu.be/IivieWL_g4s)
+- [When to useMemo and useCallback by Kent C. Dodds](https://kentcdodds.com/blog/usememo-and-usecallback)
 
 
