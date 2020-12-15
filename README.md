@@ -189,7 +189,7 @@ Algunas veces es necesario hacer algunos ajustes para mejorar el rendimiento de 
 - [Explore the useMemo, useContext and useRef Hooks in React por chantastic](https://youtu.be/IivieWL_g4s)
 - [When to useMemo and useCallback by Kent C. Dodds](https://kentcdodds.com/blog/usememo-and-usecallback)
 
-### Día 19: 
+### Día 19: useContext & useReducer
 Context provee una forma de pasar datos a través del árbol de componentes sin tener que pasar props manualmente en cada nivel. También podemos combinarlo con otros hooks como useReducer como estrategia para el manejo del estado de nuestra aplicación
 
 - [Context](https://es.reactjs.org/docs/context.html)
