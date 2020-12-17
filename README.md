@@ -198,3 +198,10 @@ Context provee una forma de pasar datos a través del árbol de componentes sin 
 - [React Hooks - A deeper dive featuring useContext and useReducer por Austin Johnston](https://testdriven.io/blog/react-hooks-advanced/)
 
 
+### Día 20: useReducer
+En el día 20 continuamos repasando el hook useReducer, muy útil para cambios complejos en el estado de un componente.
+
+***Contenido Recomendado***
+- [Should I useState or useReducer? por Kent C. Dodds](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
+- [Why I Love useReducer por Harry Wolf](https://youtu.be/o-nCM1857AQ)
+- [The useReducer Hook by Dave Ceddia](https://youtu.be/sYDFCuZHrqw)
