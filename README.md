@@ -205,3 +205,10 @@ En el día 20 continuamos repasando el hook useReducer, muy útil para cambios c
 - [Should I useState or useReducer? por Kent C. Dodds](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
 - [Why I Love useReducer por Harry Wolf](https://youtu.be/o-nCM1857AQ)
 - [The useReducer Hook by Dave Ceddia](https://youtu.be/sYDFCuZHrqw)
+
+
+### Día 21: Patrones avanzados - Compound Components
+Iniciamos estudiando los patrones avanzados de componentes en React. Por medio del patrón de componentes compuestos podemos lograr que uno o varios componentes trabajen en conjunto para lograr una tarea en específico.
+
+***Contenido Recomendado***
+- [React Hooks: Compound Components por Kent C. Dodds](https://kentcdodds.com/blog/compound-components-with-react-hooks)
