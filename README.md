@@ -212,3 +212,12 @@ Iniciamos estudiando los patrones avanzados de componentes en React. Por medio d
 
 ***Contenido Recomendado***
 - [React Hooks: Compound Components por Kent C. Dodds](https://kentcdodds.com/blog/compound-components-with-react-hooks)
+
+### Día 22: Principio de Inversión de Control
+El principio de inversión de control nos puede ayudar a mejorar nuestro código reutilizable.
+
+***Contenido Recomendado***
+- [Inversion of Control por Kent C. Dodds](https://kentcdodds.com/blog/inversion-of-control)
+- [Inversion of Control por Wikipedia](https://en.wikipedia.org/wiki/Inversion_of_control)
+
+
