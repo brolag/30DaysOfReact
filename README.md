@@ -220,4 +220,8 @@ El principio de inversión de control nos puede ayudar a mejorar nuestro código
 - [Inversion of Control por Kent C. Dodds](https://kentcdodds.com/blog/inversion-of-control)
 - [Inversion of Control por Wikipedia](https://en.wikipedia.org/wiki/Inversion_of_control)
 
+### Día 23: Repaso de programación funcional
+Vamos a tomar algunos días para repasar programación funcional lo cual será de ayuda para pensar mejor a la hora de escribir código JavaScript y por ende a la hora de construir aplicaciones React.
 
+***Contenido Recomendado***
+- [Introducción a la programación funcional](https://softwarecrafters.io/javascript/introduccion-programacion-funcional-javascript)
