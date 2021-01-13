@@ -226,7 +226,7 @@ Vamos a tomar algunos días para repasar programación funcional lo cual será d
 ***Contenido Recomendado***
 - [Introducción a la programación funcional](https://softwarecrafters.io/javascript/introduccion-programacion-funcional-javascript)
 
-###Día 24: Funciones de Orden Superior.
+### Día 24: Programación funcional - Funciones de Orden Superior
 En matemáticas y ciencias de la computación funciones de orden superior son funciones que cumplen al menos una de las siguientes condiciones:
 
 1. Tomar una o más funciones como entrada
