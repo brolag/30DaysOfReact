@@ -235,3 +235,9 @@ En matemáticas y ciencias de la computación funciones de orden superior son fu
 ***Contenido Recomendado***
 - [Funciones de orden superior por MPJ](https://youtu.be/BMUiFMZr7vk)
 
+### Día 25: Introducción a TypeScript con React
+TypeScript es un super set de JavaScript, es decir extiende su funcionalidad. TypeScript permite tener tipado estático y funciona muy bien para capturar errores antes del proceso de ejecución. Además ayuda muchísimo a darle más legibilidad al código.
+
+***Contenido Recomendado***
+- [Introducción a TypeScript con React por Jose Manuel Lucas](https://softwarecrafters.io/typescript/introduccion-typescript-react)
+
