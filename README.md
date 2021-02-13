@@ -246,5 +246,5 @@ TypeScript es un super set de JavaScript, es decir extiende su funcionalidad. Ty
 Next.js es un framework de React que permite implementar fácilmente server side rendering entre muchas otras cosas más. En este día vamos a empezar a crear una aplicación para poner en práctica los conceptos aprendidos.
 
 ***Contenido Recomendado***
-- [Aprendiendo NextJS, el framework de React con Server Side Rendering por midudev](https://youtu.be/2jxc8DMzt0I)
+- [Aprendiendo NextJS, el framework de React con Server Side Rendering por Miguel Angel Durán](https://youtu.be/2jxc8DMzt0I)
 
