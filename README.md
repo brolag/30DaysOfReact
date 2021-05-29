@@ -248,3 +248,10 @@ Next.js es un framework de React que permite implementar fácilmente server side
 ***Contenido Recomendado***
 - [Aprendiendo NextJS, el framework de React con Server Side Rendering por Miguel Angel Durán](https://youtu.be/2jxc8DMzt0I)
 
+
+### Día 27: Cheatsheet de TypeScript + React
+TypeScript es especialmente útil en React para definir los tipos de las props que se utilizarán en un componente. Con esta guía será muy sencillo entender el concepto y aplicarlo. 
+
+***Contenido Recomendado***
+- [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+
