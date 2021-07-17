@@ -254,3 +254,7 @@ TypeScript es especialmente útil en React para definir los tipos de las props q
 ***Contenido Recomendado***
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 
+
+### Día 28: Front End Unit Testing
+Las pruebas unitarias son el respaldo que vamos a tener para asegurarnos que los cambios que hagamos no estén quebrando otra parte del sistema que estamos actualizando. Vale mucho la pena acostumbrarse a escribirlas adecuadamente.
+- [Confident React - Frontend Testing por Kent C. Dodds](https://youtu.be/eg_TFYF_cKM)
