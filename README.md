@@ -7,7 +7,7 @@ La idea es estudiar una pieza corta de material día a día y practicar para pod
 ## Sugerencias
 
 1. Inicialmente vamos a tomar como referencia este post de Kent C. Dodds, recomendamos leerlo antes de iniciar: [https://kentcdodds.com/blog/how-to-react](https://kentcdodds.com/blog/how-to-react)
-2. Es importante asumir el compromiso, una buena técnica para lograr esto es hacer público el proceso, recomendamos hacer un Tuit, post en LinkedIn o Facebook con cada uno de los materiales y un comentario, usando también el hashtag `#100DaysOfReact` y `#reactCostaRica` así le damos un poco de visibilidad a la comunidad 😉
+2. Es importante asumir el compromiso, una buena técnica para lograr esto es hacer público el proceso, recomendamos hacer un Tuit, post en LinkedIn o Facebook con cada uno de los materiales y un comentario, usando también el hashtag `#30DaysOfReact` y `#reactCostaRica` así le damos un poco de visibilidad a la comunidad 😉
 3. Es buena idea aparte de publicar el avance, recuperar notas importantes o porciones de código que podamos reutilizar en el futuro, para esto sería buena idea utilizar GitHub para llevar el seguimiento del código que hagamos.
 4. [Notion.so](http://notion.so) también es una muy buena herramienta para llevar notas. Para un nivel extra de aprovechamiento, podríamos publicar lo que vayamos aprendiendo en [Dev.to](http://dev.to) o en alguna plataforma para blogs.
 5. Si perdemos un día o dos no es problema siempre y cuando nos pongamos al día. Si se puede. 💪🏽
