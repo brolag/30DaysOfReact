@@ -265,5 +265,5 @@ Las pruebas unitarias son el respaldo que vamos a tener para asegurarnos que los
 
 Crear un acortador de URLs desde 0 utilizando NextJS.
 
-*** Contenido Recomedado***
+***Contenido Recomedado***
 - [Cómo hacer un acortador de urls con NextJS por Carlos Azaustre](https://carlosazaustre.es/acortador-urls)
