@@ -260,3 +260,10 @@ Las pruebas unitarias son el respaldo que vamos a tener para asegurarnos que los
 
 ***Contenido Recomendado***
 - [Confident React - Frontend Testing por Kent C. Dodds](https://youtu.be/eg_TFYF_cKM)
+
+### Día 29: Reto - Acortdor de URLs
+
+Crear un acortador de URLs desde 0 utilizando NextJS.
+
+*** Contenido Recomedado***
+- [Cómo hacer un acortador de urls con NextJS por Carlos Azaustre](https://carlosazaustre.es/acortador-urls)
