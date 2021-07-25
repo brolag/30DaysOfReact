@@ -18,6 +18,7 @@ La idea es estudiar una pieza corta de material día a día y practicar para pod
 - [Eric Elliot](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
 - [Kyle Sipmson](https://github.com/getify/You-Dont-Know-JS)
 - [Blockmatic](https://github.com/blockmatic/modern-react-stack)
+- [Carlos Azaustre](https://carlosazaustre.es/)
 
 ## Bitácora
 
