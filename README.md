@@ -267,3 +267,8 @@ Crear un acortador de URLs desde 0 utilizando NextJS.
 
 ***Contenido Recomedado***
 - [Cómo hacer un acortador de urls con NextJS por Carlos Azaustre](https://carlosazaustre.es/acortador-urls)
+
+### Día 30: Reto - Crear una Dapp con React
+
+Las aplicaciones descentralizadas también conocidas como aplicaciones web3 son aplicaciones web que interactúan con una blockchain y tienen algunas particularidades.
+- [How to Build Ethereum Dapp with React.js · Complete Step-By-Step Guide por Gregory McCubbin](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
