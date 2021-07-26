@@ -11,7 +11,7 @@ La idea es estudiar una pieza corta de material día a día y practicar para pod
 3. Es buena idea aparte de publicar el avance, recuperar notas importantes o porciones de código que podamos reutilizar en el futuro, para esto sería buena idea utilizar GitHub para llevar el seguimiento del código que hagamos.
 4. [Notion.so](http://notion.so) también es una muy buena herramienta para llevar notas. Para un nivel extra de aprovechamiento, podríamos publicar lo que vayamos aprendiendo en [Dev.to](http://dev.to) o en alguna plataforma para blogs.
 5. Si perdemos un día o dos no es problema siempre y cuando nos pongamos al día. Si se puede. 💪🏽
-6. No todos los artículos son de nivel principiante, si tienes alguna pregunta no dudes en contactarme.
+6. No todos los artículos son de nivel principiante, si tienes alguna pregunta etiquetame en un Twit y la resolveremos en comunidad.
 
 ## Agradecimientos especiales
 
