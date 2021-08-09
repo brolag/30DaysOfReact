@@ -274,3 +274,7 @@ Crear un acortador de URLs desde 0 utilizando NextJS.
 
 Las aplicaciones descentralizadas también conocidas como aplicaciones web3 son aplicaciones web que interactúan con una blockchain y tienen algunas particularidades.
 - [How to Build Ethereum Dapp with React.js · Complete Step-By-Step Guide por Gregory McCubbin](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
+
+
+## Conclusión
+Te agradezco mucho por llegar aceptar el reto. Felicitaciones por llegar hasta el final. Espero que hayas disfrutado el reto tanto como yo lo hice preparándolo. Ahora bien, ¿eso es todo? ¿ya lo aprendiste todo? pues no, nunca debemos parar de aprender. Si quieres continuar aprendiendo puedes seguir con el siguiente reto: [#30DaysOfWeb3](https://github.com/brolag/30DaysOfWeb3) donde vamos a aprender lo necesario para construir el futuro de la web programando aplicaciones web3. ¡Nos vemos allà! 
